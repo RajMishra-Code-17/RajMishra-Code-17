@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&animation=fadeIn&text=Raj%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF8A3D&center=true&vCenter=true&width=600&height=70&lines=Raj+Mishra;Raj+Mishra+%F0%9F%91%8B;Aspiring+Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">Hi there, I'm Raj Mishra 👋</h1>
 
 <h3 align="center">
